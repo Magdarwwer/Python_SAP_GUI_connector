@@ -1,0 +1,8 @@
+# Wirtualne środowiska
+venv/
+__pycache__/
+*.pyc
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
