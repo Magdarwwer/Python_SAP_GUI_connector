@@ -33,3 +33,7 @@ def connect_to_sap():
     except Exception as e:
         print("Couldn't connect to SAp GUI: ", e)
         return None
+
+#connecting to master data list
+def connect_to_client_data():
+    
